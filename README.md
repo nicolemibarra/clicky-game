@@ -6,7 +6,7 @@
 
 #### Built with React. Check it out [here](https://github.com/nicolemibarra/clicky-game).
 
-##### Check out a video of how to play it [here](https://www.youtube.com/watch?v=c3t5nYzYt58&list=UUDnGWFjS4mRgpHQ_E8N-C5g&index=2).
+#### Check out a video of how to play it [here](https://www.youtube.com/watch?v=c3t5nYzYt58&list=UUDnGWFjS4mRgpHQ_E8N-C5g&index=2).
 
 ![screenshot](public/screenshot.png)
 
